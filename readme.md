@@ -6,6 +6,6 @@ You need node.js and gulp already installed.
 2. Run "npm install"
 3. Run "gulp default"
 
-Go to locall:host 3000  in tehe brouser
+Go to: http://localhost:3000/ 
 
 
