@@ -43,7 +43,6 @@ p {
 }
 
 //button-style
-
 .link {
   display: inline-flex;
   align-items: center;
@@ -77,7 +76,6 @@ p {
   cursor: pointer;
   display: inline-block;
 }
-
 //button-style-end
 
 header {
@@ -423,7 +421,6 @@ header {
     position: absolute;
     left: 50%;
     margin-left: -25%;
-
   }
 }
 
@@ -697,11 +694,8 @@ input[type=text] {
     height: 300px;
     padding-top: 50px;
     padding-bottom: 50px;
-
   }
-
 }
-
 
 .finance-box-left {
   span {
@@ -792,7 +786,6 @@ input[type=text] {
   .card-img-line {
     display: none;
   }
-
 }
 
 @media screen and (max-width: 600px) {
